@@ -12,7 +12,8 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg">
-  <img align="center" alt="C#" height="30" width="40" src="https://user-images.githubusercontent.com/74430503/178512870-f58e1b32-b738-4949-a566-be513f28d439.png">
+  <img align="center" alt="C#" height="30" width="30" src="https://user-images.githubusercontent.com/74430503/178512870-f58e1b32-b738-4949-a566-be513f28d439.png">
+  <img align="center" alt="Angular" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Angular-Dark.svg">
  
 </div>
  
